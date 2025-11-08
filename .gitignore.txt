@@ -1,0 +1,14 @@
+# Python cache files (temporary)
+__pycache__/
+*.pyc
+
+# Virtual environments (these are large and unnecessary on GitHub)
+.venv/
+venv/
+
+# Streamlit secrets (contains your API key — keep private!)
+.streamlit/secrets.toml
+
+# Operating system files (Mac/Windows junk)
+.DS_Store
+Thumbs.db
